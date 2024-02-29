@@ -2,3 +2,6 @@
 /.pylintrc
 /.vscode
 /__pycache__
+/static
+db_models/__pycache__/payment.cpython-311.pyc
+payments/__pycache__/pix.cpython-311.pyc
